@@ -51,6 +51,7 @@ h1 span{
     border-radius: 10px;
     cursor: pointer;
     transition: 200ms;
+    color: white;
 }
 
 .personaje:hover{
